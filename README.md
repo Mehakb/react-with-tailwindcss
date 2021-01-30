@@ -5,7 +5,7 @@ Boiler plate created on machine using react 17.0.1, node 14.15.4, npm 6.14.10
 With this boiler plate you can start to code for components directly.
 
 
-It includes create-react-app, tailwind css, postcss-cli, autofixer packages.
+It includes create-react-app, tailwindcss, postcss-cli, autoprefixer, fontawesome for menu icon of bars  packages.
 This bolier plate has much of extra content removed.
 
 

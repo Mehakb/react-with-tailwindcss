@@ -1,10 +1,13 @@
-function App() {
+import Content from "./Components/Content";
+import Footer from "./Components/Footer";
+import Header from "./Components/Header";
+
+export default function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-      </header>
+    <div className="w-full">
+      <Header />
+      <Content />
+      <Footer />
     </div>
   );
 }
-
-export default App;
