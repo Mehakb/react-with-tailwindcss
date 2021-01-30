@@ -17,5 +17,5 @@ Refer https://tailwindcss.com/ for more details.
 git clone the repo
 
 ## start using boiler plate
-
+npm install
 npm run start
