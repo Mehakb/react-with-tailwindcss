@@ -10,7 +10,7 @@ This bolier plate has much of extra content removed.
 Benefit of tailwind css is that it is javascript css and also on building for production it removes extra tailwind css classes and bundles only classes we used so reduce css to minimum size.
 
 Refer https://tailwindcss.com/ for more details.
-For React JS, refer https://reactjs.org/.
+For React JS, refer [https://reactjs.dev/](https://react.dev/).
 
 ## setup bolier plate
 
